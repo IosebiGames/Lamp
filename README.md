@@ -6,4 +6,5 @@ a small Java app that has a lamp in it, which triggers a sound by clicking. Thin
    1. Click on the lamp inside to hear the sound
    2. Release the mouse outside of the lamp
    3. Repeat
+
 Simple rules means simple actions.😏
