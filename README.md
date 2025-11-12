@@ -8,3 +8,6 @@ a small Java app that has a lamp in it, which triggers a sound by clicking. Thin
    3. Repeat
 
 Simple rules means simple actions.😏
+
+#     WHY IS THIS SOURCE CODE IS SIMPLE:
+ because App is pretty small, of course code is clean and organized,But I did not wanted to make it overly-modular because its small project.
